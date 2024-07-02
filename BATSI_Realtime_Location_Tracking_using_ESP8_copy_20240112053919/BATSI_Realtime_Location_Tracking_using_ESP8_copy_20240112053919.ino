@@ -6,7 +6,7 @@
 #include <SoftwareSerial.h>
 
 
-#define FIREBASE_HOST "batsi-1d99d-default-rtdb.asia-southeast1.firebasedatabase.app"
+#define FIREBASE_HOST "DATABASE_URL"
 #define FIREBASE_AUTH "xxxxxxxxxxxxxxx" //database secrey key
 #define WIFI_SSID "xxxxxxx"
 #define WIFI_PASSWORD "xxxxxxxx"
